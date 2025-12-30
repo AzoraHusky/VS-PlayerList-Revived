@@ -1,7 +1,7 @@
 {
   "type": "code",
   "name": "PlayerList",
-  "modid": "playerlist",
+  "modid": "playerlistrevived",
   "version": "{version}",
   "description": "{description}",
   "website": "https://github.com/BillyGalbreath/VS-PlayerList",
